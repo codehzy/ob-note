@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "c7757922920759ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "48a640b390fd2e0a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2.笔记/Vue3-基础及特性.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8f1ca7aee8613cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "48ec7bd840eaa1ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5ec63b64fba94cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "242cd5c4e10c9d0f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248
+  },
+  "right": {
+    "id": "7b12a717ae5318c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "60af4a7448da92cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebdd3408ab217136",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2.笔记/Vue3-基础及特性.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "48a640b390fd2e0a",
+  "lastOpenFiles": [
+    "2.笔记/Vue3-基础及特性.md",
+    "2.笔记/项目搭建.md",
+    "1.索引/学习进化-索引.md",
+    "3.附件/动态路由.png",
+    "3.附件/简单Echart.png",
+    "3.附件/三种响应式方法对比图.png",
+    "3.附件/组件之间值传递.png",
+    "3.附件/ComponsitionAPi对比.png",
+    "3.附件/google Code vue2-vue3.png",
+    "3.附件/jsx.png"
+  ]
+}
